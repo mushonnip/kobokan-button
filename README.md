@@ -2,9 +2,17 @@
 
 Sebuah Website Tombol Suara didedikasikan untuk VTuber Gen-3 Hololive Indonesia, Kobo Kanaeru.
 
+- [Kobo Kanaeru's Youtube channel](https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw)
+
+- [Kobo Kanaeru's Twitter](https://twitter.com/kobokanaeru)
+
+## Note
+
+**This project is still so early. We are welcome for your contribution.**
+
 ## Contributing
 
-Ingin berkontribusi? lihat panduannya [di sini](https://github.com/mushonnip/kobokan-button/CONTRIBUTING.md)
+Ingin berkontribusi? lihat panduannya [di sini](https://github.com/mushonnip/kobokan-button/blob/main/CONTRIBUTING.md)
 
 ## Development environment
 
