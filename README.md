@@ -1,6 +1,6 @@
 # Kobokan Button
 
-Sebuah Website Tombol Suara didedikasikan untuk VTuber Gen-3 Hololive Indonesia, Kobo kanaeru.
+Sebuah Website Tombol Suara didedikasikan untuk VTuber Gen-3 Hololive Indonesia, Kobo Kanaeru.
 
 ## Contributing
 

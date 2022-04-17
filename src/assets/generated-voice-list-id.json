@@ -1,0 +1,28 @@
+{
+  "voices": [
+    {
+      "categoryName": "Suara Kobo",
+      "categoryPath": "kobo_sound",
+      "voiceList": [
+        {
+          "name": "Ara ara",
+          "path": "ara_ara.mp3"
+        },
+        {
+          "name": "Eleh eleh",
+          "path": "eleh_eleh.mp3"
+        }
+      ]
+    },
+    {
+      "categoryName": "Alarm Kobo",
+      "categoryPath": "kobo_alarm",
+      "voiceList": [
+        {
+          "name": "Sahur",
+          "path": "sahur.mp3"
+        }
+      ]
+    }
+  ]
+}
